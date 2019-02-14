@@ -68,6 +68,8 @@ cite {
     margin-bottom: 35px;
     display: block;
     text-align: justify;
+    border-left: solid 1px #7fa99b;
+    padding-left: 20px;
 }
 
 li {

@@ -17,7 +17,7 @@ h1,h2,h3,h4,h5,h6,p,ul,li, img {
 main {
     width: 960px;
     margin: 0 auto;
-    background: url(../img/header.jpg) no-repeat;
+    background: url(./img/header.jpg) no-repeat;
     background-color: #fbf2d5;
     padding-top: 340px;
     padding-left: 90px;

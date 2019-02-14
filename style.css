@@ -6,12 +6,10 @@ body {
     margin: 0;
     background-color: #394a51;
     font-family: 'Roboto', sans-serif; 
-    
 }
 
 h1,h2,h3,h4,h5,h6,p,ul,li, img {
     margin: 0;
-
 }
 
 main {
@@ -79,6 +77,4 @@ li {
 
 ul {
     margin-top: 25px;
-    
-
 }
